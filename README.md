@@ -7,3 +7,38 @@ Click
 -
 [Resources](https://docs.google.com/document/d/1v5i6pHcSAo1ztFXfWhYnHP40H6V3e96tE31CC6DCKOA/edit)
 -
+
+List of things we should know
+Debugging basics
+Variable declaration and assignment
+Arithmetic operations
+Coding style basics
+Floats
+Chars
+String manipulation
+Booleans
+Comparison operators
+If statements
+Nested conditionals
+Switch statements
+Variable scopes
+Logical operators
+String searching
+Loops
+Nested loops
+Functions
+Unit testing
+References
+Constants
+Arrays
+2D arrays
+Enums
+Structs
+Vectors
+Iterators
+2D vectors
+Sets
+Maps
+Program design
+Problem solving
+Big O notation
